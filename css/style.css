@@ -91,23 +91,23 @@ img, video {
  .wrapper {
    width: 960px;
    margin: 0 auto;
-   background: #EEE;
+   background: #CCC;
  }
 
  .col-1 {
    float: left;
    width: 32%;
-   background: grey;
+   background: #EEE;
  }
 
  .col-2 {
    float: left;
    width: 66%;
-   background: grey;
+   background: #EEE;
  }
 
  .col-3 {
-   background: grey;
+   background: #EEE;
  }
 
  [class*="col-"] {
