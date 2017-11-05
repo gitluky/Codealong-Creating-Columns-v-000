@@ -16,6 +16,16 @@ selector {
 
 /* Type selector */
 
+.clearfix:after {
+  content: ".";
+  visibility: hidden;
+  display: block;
+  clear: both;
+  height: 0;
+  line-height: 0;
+  
+}
+
 p { /* select all <p> */
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
   line-height: 1.5em;
