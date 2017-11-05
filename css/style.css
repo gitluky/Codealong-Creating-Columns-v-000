@@ -82,7 +82,7 @@ figcaption {
 }
 /*MEDIA*/
 
-img, video, audio {
+video {
   max-width: 100%
 }
 
