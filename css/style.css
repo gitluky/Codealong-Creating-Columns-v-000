@@ -95,3 +95,7 @@ figcaption {
  .col-3 {
    background: grey;
  }
+
+ [class="col-"]{
+   margin-left: 2%;
+ }
